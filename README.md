@@ -1,7 +1,5 @@
 # The-Snake-Game-For-Two
 
-# Snake Game
-
 This is a classic Snake Game for Two players implemented in Python using the Pygame library. The objective of the game is to control the snake and eat as much food as possible while avoiding collisions with the snake's own body and the boundaries of the game window.
 
 ## Features
